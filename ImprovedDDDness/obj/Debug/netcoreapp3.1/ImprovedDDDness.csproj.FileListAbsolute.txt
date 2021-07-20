@@ -1,0 +1,3 @@
+C:\Users\dkalwica\source\repos\DDDness-talk\DDDness-talk\obj\Debug\netcoreapp3.1\ImprovedDDDness.AssemblyInfoInputs.cache
+C:\Users\dkalwica\source\repos\DDDness-talk\DDDness-talk\obj\Debug\netcoreapp3.1\ImprovedDDDness.AssemblyInfo.cs
+C:\Users\dkalwica\source\repos\DDDness-talk\DDDness-talk\obj\Debug\netcoreapp3.1\ImprovedDDDness.csproj.CoreCompileInputs.cache
